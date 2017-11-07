@@ -1,4 +1,5 @@
 /node_modules
 /.sass-cache
+/dist
 package-lock.json
 /test/*-bundle.js
